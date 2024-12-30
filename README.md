@@ -30,7 +30,7 @@ The `input` module is a reusable Rust module for handling user input. It provide
 
 ### Example Usage
 
-```rs
+```rust
 let user_input = get_input("Enter a number: ");
 let number = number_check(&user_input);
 
