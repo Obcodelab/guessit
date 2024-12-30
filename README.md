@@ -62,7 +62,7 @@ cargo run
 
 ## Example Game Session
 
-```vbnet
+```plaintext
 Guess the number: 5
 Try again!
 The number is higher
